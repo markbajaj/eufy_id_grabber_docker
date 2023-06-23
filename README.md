@@ -1,5 +1,5 @@
 
-# DOCKER VERION
+# DOCKER VERSION
 
 You can create your own docker image using the dockerfile.
 

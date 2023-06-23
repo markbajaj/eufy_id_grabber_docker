@@ -1,3 +1,12 @@
+
+# DOCKER VERION
+
+You can create your own docker image using the dockerfile.
+
+docker image here: 
+https://hub.docker.com/r/markbajaj/eufyidfinder/tags
+
+
 # Eufy device ID & key grabber
 
 This Python program allows you to obtain the device ID & local key for your Eufy devices without having to rely on running an old version of their Android app.
